@@ -18,6 +18,7 @@ import org.mockito.runners.MockitoJUnitRunner;
 import com.pkm.hero.service.rest.client.HeroRestClient;
 import com.pkm.hero.service.rest.client.RestClient;
 
+@SuppressWarnings("unused")
 @RunWith(MockitoJUnitRunner.class)
 public class HeroRestClientIOExceptionTest {
 

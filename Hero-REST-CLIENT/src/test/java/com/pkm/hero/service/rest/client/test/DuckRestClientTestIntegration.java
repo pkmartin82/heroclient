@@ -16,6 +16,7 @@ import com.pkm.hero.service.rest.client.DuckRestClient;
 import com.pkm.hero.service.rest.client.HeroRestClient;
 import com.pkm.hero.service.rest.exception.HeroRestClientException;
 
+@SuppressWarnings("unused")
 public class DuckRestClientTestIntegration {
 
 	/** Default Universe Id */
